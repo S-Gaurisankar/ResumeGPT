@@ -1,6 +1,6 @@
 # ResumeGPT
 
-A modern web application that helps users supercharge their resumes using AI technology.
+A modern web application that helps users supercharge their resumes using AI.
 
 ## Features
 
